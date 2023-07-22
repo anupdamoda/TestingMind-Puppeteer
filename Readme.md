@@ -8,7 +8,7 @@ End to End testing suite template using:
 
 ## 🤖 Starting up
 
-We have created a sample [Clerk](https://www.clerk.dev/) app which showcases the existing example, so feel free to play around!
+We have created a sample app [Ace Online Shoe Portal](https://anupdamoda.github.io/AceOnlineShoePortal/index.html) app which showcases the existing example, so feel free to play around!
 
 1. Install the dependencies using `npm install` or `yarn install`
 2. under the tests folder there is 'aceshoeportal.spec.js' - there tests are there
